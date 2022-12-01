@@ -88,8 +88,8 @@
         <thead>
             <tr>
                 <th> </th>
-                <th>Push</th>
                 <th>Pull</th>
+                <th>Push</th>
             </tr>
         </thead>
         <tbody>
@@ -98,7 +98,7 @@
                 <td>
                     - 대량 메시지 (초당 GB) <br>
                     - 메시지 처리 효율성과 처리량이 중요한 경우 <br>
-                    - 공개된 HTTPS 엔드포인트를 설정할 수 없는 황경
+                    - 공개된 HTTPS 엔드포인트를 설정할 수 없는 환경
                 </td>
                 <td>
                     - 여러 토픽을 같은 웹훅으로 처리해야하는 경우 <br>
